@@ -1,7 +1,6 @@
-### Hi, I'm Ednario Andrade
+### Oie, eu sou Ednario Andrade
 
- - Information System Student 2/8
- - University: Unijuazeiro 
+ - Atualmente estou me aprofundando em React, React Native e TypeScript
 <div align="center">
   <a href="https://github.com/ednario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednario&layout=compact&langs_count=7&theme=tokyonight"/>
