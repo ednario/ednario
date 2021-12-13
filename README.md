@@ -1,6 +1,6 @@
 ### Oie, eu sou Ednario Andrade
 
- - Desenvolvedor **BackEnd** - Jr [JavaScript, NodeJS]
+ - Desenvolvedor **Jr** **BackEnd** - [JavaScript, NodeJS]
  - Conhecimentos básicos em HTML e CSS
 <div align="center">
   <a href="https://github.com/ednario">
