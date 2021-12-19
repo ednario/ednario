@@ -1,7 +1,8 @@
-### Hello, I'am Ednario Andrade
+### Hello, I'am Ednario Andrade 👨‍💻
 
  - Developer **Jr** - **BackEnd** - [JavaScript, NodeJS] - I'm in the process of adapting to the TypeScript
  - Knowledge in HTML e CSS
+ - RocketSeat Discover Complete ✔
 <div align="center">
   <a href="https://github.com/ednario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednario&layout=compact&langs_count=7&theme=tokyonight"/>
