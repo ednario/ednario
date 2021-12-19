@@ -1,7 +1,7 @@
 ### Oie, eu sou Ednario Andrade
 
  - Desenvolvedor **Jr** - **BackEnd** - [JavaScript, NodeJS]
- - Conhecimentos básicos em HTML e CSS
+ - Conhecimentos em HTML e CSS
 <div align="center">
   <a href="https://github.com/ednario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednario&layout=compact&langs_count=7&theme=tokyonight"/>
