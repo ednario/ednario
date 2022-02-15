@@ -1,6 +1,6 @@
 ### Hello, I'am Ednario Andrade 👨‍💻
 
- - Developer **Jr** - **BackEnd** - [JavaScript, NodeJS] - I'm in the process of adapting to the TypeScript
+ - Developer **Web** - **BackEnd** - [JavaScript, NodeJS] - I'm in the process of adapting to the TypeScript
   
   ##
  
