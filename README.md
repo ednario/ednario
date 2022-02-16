@@ -1,6 +1,6 @@
 ### Hello, I'am Ednario Andrade 👨‍💻
 
- - Developer **Web** - **BackEnd** - [JavaScript, NodeJS] - I'm in the process of adapting to the TypeScript
+ - Developer **Web** - [HTML, CSS, JavaScript, React, NodeJS]
   
   ##
  
