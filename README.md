@@ -1,6 +1,6 @@
 ### Hello, I'am Ednario Andrade 👨‍💻
 
- - Developer **Web** - [HTML, CSS, JavaScript, React, NodeJS]
+ - Developer **Web** - [ HTML, CSS, JavaScript, React, NodeJS ]
   
   ##
  
