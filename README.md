@@ -1,16 +1,4 @@
 ### Hello, I'am Ednario Andrade 👨‍💻
-
-
-  
-  ##
- 
-<div style="display: inline_block"><br>
- <img align="center" alt="EdnarioHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EdnarioCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="EdnarioJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="EdnarioTS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="EdnarioNodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-</div>
   
   ##
  
