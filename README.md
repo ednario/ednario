@@ -13,7 +13,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/dock
 <img align="center" alt="Ednario-Express" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 <img align="center" alt="Ednario-Nest" height="30" width="40" 
-src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="Ednario-MySQL" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Ednario-Postgresql" height="30" width="40" 
