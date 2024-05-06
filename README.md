@@ -20,6 +20,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Ednario-Python" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Ednario-Flutter" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+<img align="center" alt="Ednario-Git" height="30" width="40" 
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 
 ##
 
